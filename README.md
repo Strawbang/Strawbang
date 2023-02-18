@@ -9,7 +9,7 @@
 - 🔭 I’m currently working at [METRO France](https://www.linkedin.com/company/metro-france/mycompany/)  
   
 
-- 🌱 I’m currently learning Cloud, Architecture development  
+- 🌱 I’m currently learning Cloud, architectural development (hexagonal, clean, microservice...)
   
 
 - ❓ Ask me about anything related to MERN stack and DevOps (pipeline, environement, release...)  
