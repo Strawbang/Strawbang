@@ -1,7 +1,6 @@
 <div align="center">
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
-</div>  
-
+</div>
 
 ### <div align="center">I'm Djamel, a full-time full-stack developer 👨‍💻 working remotely since 2020 🚀</div>
 
@@ -18,6 +17,8 @@
 <br/>
 
 <!--START_SECTION:activity-->
+
+![Strawbang's GitHub stats](https://github-readme-stats.vercel.app/api?username=strawbang&show_icons=true&theme=transparent)
 
 <br/>
 
@@ -92,7 +93,6 @@
 <a href="https://instagram.com/strawbang" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>  
-</div>  
-
+</div>
 
 <br/>
