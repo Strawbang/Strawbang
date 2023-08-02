@@ -100,7 +100,6 @@
 ## Blog posts
 
 <!-- BLOG-POST-LIST:START -->
-
 - [Building a Blazing-Fast Portfolio with Astro and Deploying with Netlify](https://medium.com/@strawbang/building-a-blazing-fast-portfolio-with-astro-and-deploying-with-netlify-28c6022de1ef?source=rss-d674a1d03194------2)
 - [Full-Remote Bliss: Fullstack Dev’s Jet Lag Advantage](https://medium.com/@strawbang/full-remote-bliss-fullstack-devs-jet-lag-advantage-f90cb2df34b1?source=rss-d674a1d03194------2)
 <!-- BLOG-POST-LIST:END -->
