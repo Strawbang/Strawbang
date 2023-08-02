@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://giphy.com/gifs/bear-hello-waving-IThjAlJnD9WNO" align="center" style="width: 100%" />
+<img src="https://media.giphy.com/media/IThjAlJnD9WNO/giphy.gif" align="center" style="width: 100%" />
 </div>
 
 ### <div align="center">I'm Djamel, a full-time full-stack developer 👨‍💻 working remotely since 2020 🚀</div>
