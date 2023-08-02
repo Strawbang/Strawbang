@@ -1,8 +1,6 @@
 <div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
+<img src="https://giphy.com/gifs/bear-hello-waving-IThjAlJnD9WNO" align="center" style="width: 100%" />
 </div>
-
-<img align="center" src='URL' title="Meme" alt="Please refresh the page if the meme doesn't show up.">
 
 ### <div align="center">I'm Djamel, a full-time full-stack developer 👨‍💻 working remotely since 2020 🚀</div>
 
