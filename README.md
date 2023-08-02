@@ -2,6 +2,8 @@
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
 </div>
 
+<img align="center" src='URL' title="Meme" alt="Please refresh the page if the meme doesn't show up.">
+
 ### <div align="center">I'm Djamel, a full-time full-stack developer 👨‍💻 working remotely since 2020 🚀</div>
 
 - 🔭 I’m currently working at [METRO France](https://www.linkedin.com/company/metro-france/mycompany/)
@@ -12,7 +14,7 @@
 
 - 📫 How to reach me dbougouffa@gmail.com
 
-- ⚡ Fun fact : I love learn and practice DevOps
+- ⚡ Fun fact : I love learn and practice DevOps but yes i'm a developer
 
 <br/>
 
@@ -100,6 +102,7 @@
 ## Blog posts
 
 <!-- BLOG-POST-LIST:START -->
+
 - [Building a Blazing-Fast Portfolio with Astro and Deploying with Netlify](https://dev.to/strawbang/building-a-blazing-fast-portfolio-with-astro-and-deploying-with-netlify-4ek0)
 - [Building a Blazing-Fast Portfolio with Astro and Deploying with Netlify](https://medium.com/@strawbang/building-a-blazing-fast-portfolio-with-astro-and-deploying-with-netlify-28c6022de1ef?source=rss-d674a1d03194------2)
 - [Full-Remote Bliss: Fullstack Dev’s Jet Lag Advantage](https://dev.to/strawbang/full-remote-bliss-fullstack-devs-jet-lag-advantage-464k)
