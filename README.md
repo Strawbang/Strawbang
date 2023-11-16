@@ -2,13 +2,13 @@
 <img src="https://media.giphy.com/media/IThjAlJnD9WNO/giphy.gif" align="center" style="width: 100%" />
 </div>
 
-### <div align="center">I'm Djamel, a full-time full-stack developer 👨‍💻 working remotely since 2020 🚀</div>
+### <div align="center">I'm Djamel, full-stack developer 👨‍💻 working remotely since 2020 🚀</div>
 
 - 🔭 I’m currently working at [METRO France](https://www.linkedin.com/company/metro-france/mycompany/)
 
-- 🌱 I’m currently learning Cloud, architectural development (hexagonal, clean, microservice...)
+- 🌱 I’m currently learning C#, .Net, Next.js, cloud, architectural development (hexagonal, microservice...)
 
-- ❓ Ask me about anything related to MERN stack and DevOps (pipeline, environement, release...)
+- ❓ Ask me about anything related to MERN stack, and DevOps (pipeline, environement, release...)
 
 - 📫 How to reach me dbougouffa@gmail.com
 
