@@ -4,9 +4,9 @@
 
 ### <div align="center">I'm Djamel, a full-time full-stack developer 👨‍💻 working remotely since 2020 🚀</div>
 
-- 🔭 I’m currently working at [METRO France](https://www.linkedin.com/company/metro-france/mycompany/)
+- 🔭 I’m currently find new position !
 
-- 🌱 I’m currently learning Cloud, architectural development (hexagonal, clean, microservice...)
+- 🌱 I’m currently learning Blockchain, Solidity, C#, .Net, Next.js, cloud, architectural development
 
 - ❓ Ask me about anything related to MERN stack and DevOps (pipeline, environement, release...)
 
