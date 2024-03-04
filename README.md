@@ -2,13 +2,13 @@
 <img src="https://media.giphy.com/media/IThjAlJnD9WNO/giphy.gif" align="center" style="width: 100%" />
 </div>
 
-### <div align="center">I'm Djamel, a full-time full-stack developer 👨‍💻 working remotely since 2020 🚀</div>
+### <div align="center">I'm Djamel, full-stack developer 👨‍💻 working remotely since 2020 🚀</div>
 
 - 🔭 I’m currently find new position !
 
 - 🌱 I’m currently learning Blockchain, Solidity, C#, .Net, Next.js, cloud, architectural development
 
-- ❓ Ask me about anything related to MERN stack and DevOps (pipeline, environement, release...)
+- ❓ Ask me about anything related to MERN stack, and DevOps (pipeline, environement, release...)
 
 - 📫 How to reach me dbougouffa@gmail.com
 
@@ -101,6 +101,7 @@
 
 <!-- BLOG-POST-LIST:START -->
 
+- [Mastering a New Language: Cloning a Feature-Rich App to Achieve Excellence](https://medium.com/@strawbang/mastering-a-new-language-cloning-a-feature-rich-app-to-achieve-excellence-e5bff554c571?source=rss-d674a1d03194------2)
 - [Building a Blazing-Fast Portfolio with Astro and Deploying with Netlify](https://medium.com/@strawbang/building-a-blazing-fast-portfolio-with-astro-and-deploying-with-netlify-28c6022de1ef?source=rss-d674a1d03194------2)
 - [Full-Remote Bliss: Fullstack Dev’s Jet Lag Advantage](https://medium.com/@strawbang/full-remote-bliss-fullstack-devs-jet-lag-advantage-f90cb2df34b1?source=rss-d674a1d03194------2)
 <!-- BLOG-POST-LIST:END -->
