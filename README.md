@@ -30,7 +30,7 @@
 - **Cloud**: Google Cloud Platform (GCP), Portainer
 
 ### Methodologies & Patterns
-- **Architecture**: Hexagonal Architecture, Microservices, MVC
+- **Architecture**: Hexagonal Architecture, MVC
 - **Design**: Atomic Design, Object-Oriented Programming, Design Patterns
 - **Process**: Agile, Scrum
 
@@ -76,19 +76,25 @@
 - [GitHub](https://github.com/strawbang/VoiceVista)
 
 ### 💼 Consultant Tracking
-- Microservices-based web application for consultant time tracking and management
+- Modern web application for consultant time tracking and management
 - Technologies: 
   - Frontend: Angular 14, TypeScript, SCSS, NgRx
   - Backend: Spring Boot 3, Java 17, Hibernate
   - Database: MariaDB
   - Infrastructure: Docker, Docker Swarm, Traefik
   - CI/CD: GitHub Actions
+- Architecture:
+  - Backend: Hexagonal Architecture (Ports & Adapters)
+    - Domain-driven core business logic
+    - Clear separation of concerns
+    - Flexible infrastructure adapters
+  - Frontend: Component-based architecture with NgRx state management
 - Key Features:
   - Time tracking with activity logs
   - Project and task organization
   - Client management interface
   - Automated reporting system
-  - Microservices architecture
+  - Clean and maintainable codebase
   - Containerized deployment with Docker Swarm
   - Load balancing with Traefik
   - Secure authentication system
