@@ -37,13 +37,30 @@
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Strawbang&show_icons=true&theme=transparent" alt="Strawbang's GitHub stats" />
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img alt="Strawbang's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=Strawbang&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/>
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img alt="Strawbang's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=Strawbang&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook,Roff" height="192px"/>
+  </a>
 </p>
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Strawbang&layout=compact&theme=transparent" alt="Top Languages" />
+  <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
+    <img src="https://streak-stats.demolab.com?user=Strawbang&theme=monokai-metallian&hide_border=true&background=1F222E&stroke=FFFFFF&ring=F85D7F&fire=F85D7F&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF" />
+  </a>
 </p>
+
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Strawbang&theme=transparent&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
+  <a href="https://github.com/Strawbang?tab=repositories&sort=stargazers">
+    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/Strawbang?color=F8D866&style=for-the-badge&labelColor=1F222E&logo=star"/>
+  </a>
+  <a href="https://github.com/Strawbang?tab=followers">
+    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/Strawbang?color=236ad3&labelColor=1F222E&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/>
+  </a>
+  <a href="https://github.com/Strawbang">
+    <img alt="views" title="GitHub profile views" src="https://komarev.com/ghpvc/?username=Strawbang&style=for-the-badge&color=brightgreen"/>
+  </a>
 </p>
 
 ## 🎯 Featured Projects
