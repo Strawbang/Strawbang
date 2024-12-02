@@ -75,15 +75,17 @@
   - Personalized recommendation system
 - [GitHub](https://github.com/strawbang/VoiceVista)
 
-### 💼 Consultant Project
-- Management platform for consultants and freelancers
-- Technologies: React, TypeScript, NestJS, PostgreSQL, Docker
+### 💼 Consultant Tracking
+- Advanced time tracking and project management system for consultants
+- Technologies: React, TypeScript, NestJS, PostgreSQL, Docker, Kubernetes
 - Key Features:
-  - Mission and contract management
-  - Time tracking and invoicing
-  - Analytics dashboard
-  - Complete administrative interface
-- [GitHub](https://github.com/strawbang/consultant)
+  - Real-time time tracking with detailed analytics
+  - Project and task management
+  - Client and project reporting
+  - Automated invoicing system
+  - Multi-tenant architecture
+  - Kubernetes deployment with scalability
+- [GitHub](https://github.com/strawbang/consultant-tracking)
 
 <br/>
 
