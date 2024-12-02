@@ -78,10 +78,10 @@
 ### 💼 Consultant Tracking
 - Microservices-based web application for consultant time tracking and management
 - Technologies: 
-  - Frontend: React, TypeScript, Redux
-  - Backend: NestJS, TypeScript
-  - Database: PostgreSQL
-  - Infrastructure: Docker, Kubernetes, Traefik
+  - Frontend: Angular 14, TypeScript, SCSS, NgRx
+  - Backend: Spring Boot 3, Java 17, Hibernate
+  - Database: MariaDB
+  - Infrastructure: Docker, Docker Swarm, Traefik
   - CI/CD: GitHub Actions
 - Key Features:
   - Time tracking with activity logs
@@ -89,7 +89,7 @@
   - Client management interface
   - Automated reporting system
   - Microservices architecture
-  - Containerized deployment with Kubernetes
+  - Containerized deployment with Docker Swarm
   - Load balancing with Traefik
   - Secure authentication system
 - [GitHub](https://github.com/strawbang/consultant-tracking)
