@@ -76,15 +76,22 @@
 - [GitHub](https://github.com/strawbang/VoiceVista)
 
 ### 💼 Consultant Tracking
-- Advanced time tracking and project management system for consultants
-- Technologies: React, TypeScript, NestJS, PostgreSQL, Docker, Kubernetes
+- Microservices-based web application for consultant time tracking and management
+- Technologies: 
+  - Frontend: React, TypeScript, Redux
+  - Backend: NestJS, TypeScript
+  - Database: PostgreSQL
+  - Infrastructure: Docker, Kubernetes, Traefik
+  - CI/CD: GitHub Actions
 - Key Features:
-  - Real-time time tracking with detailed analytics
-  - Project and task management
-  - Client and project reporting
-  - Automated invoicing system
-  - Multi-tenant architecture
-  - Kubernetes deployment with scalability
+  - Time tracking with activity logs
+  - Project and task organization
+  - Client management interface
+  - Automated reporting system
+  - Microservices architecture
+  - Containerized deployment with Kubernetes
+  - Load balancing with Traefik
+  - Secure authentication system
 - [GitHub](https://github.com/strawbang/consultant-tracking)
 
 <br/>
