@@ -1,82 +1,104 @@
+![Header](./github-header-image.png)
+
+### <div align="center">I'm Djamel, Full-Stack Software Engineer 👨‍💻 passionate about modern web technologies 🚀</div>
+
+## 👨‍💻 About Me
+
+- 🔭 I'm currently open to new opportunities!
+- 💼 Over 5 years of experience in full-stack development
+- 🌱 Passionate about:
+  - Modern Web Architecture & Microservices
+  - DevOps & Cloud Infrastructure (GCP, Docker, K8s)
+  - Component-Based Architecture & Atomic Design
+  - Test-Driven Development & Clean Code
+- 📫 Reach me at: dbougouffa@gmail.com
+- 🌐 Portfolio: [djamel-bougouffa.com](https://djamel-bougouffa.com)
+- 🗣️ Languages: French (Native), English (Professional)
+
+## 🛠️ Technical Stack
+
+### Languages & Frameworks
+- **Frontend**: TypeScript, JavaScript, React.js, Redux, HTML5, CSS3
+- **Backend**: Node.js, NestJS, Express.js, PHP
+- **Testing**: Jest, Cucumber.js
+- **API**: REST, GraphQL, WebSocket, Apollo Server/Client
+- **ORM**: TypeORM, Sequelize, Mongoose
+
+### Databases & Infrastructure
+- **Databases**: PostgreSQL, MySQL, MariaDB, MongoDB, Redis
+- **DevOps**: Docker, Kubernetes, Swarm, Traefik, Jenkins, GitHub Actions
+- **Cloud**: Google Cloud Platform (GCP), Portainer
+
+### Methodologies & Patterns
+- **Architecture**: Hexagonal Architecture, Microservices, MVC
+- **Design**: Atomic Design, Object-Oriented Programming, Design Patterns
+- **Process**: Agile, Scrum
+
+## 📊 GitHub Statistics
+
 <div align="center">
-<img src="https://media.giphy.com/media/IThjAlJnD9WNO/giphy.gif" align="center" style="width: 100%" />
-</div>
-
-### <div align="center">I'm Djamel, full-stack developer 👨‍💻 working remotely since 2020 🚀</div>
-
-- 🔭 I’m currently find new position !
-
-- 🌱 I’m currently learning Blockchain, Solidity, C#, .Net, Next.js, cloud, architectural development
-
-- ❓ Ask me about anything related to MERN stack, and DevOps (pipeline, environement, release...)
-
-- 📫 How to reach me dbougouffa@gmail.com
-
-- ⚡ Fun fact : I love learn and practice DevOps but yes i'm a developer
-
-<br/>
-
-<!--START_SECTION:activity-->
-
+  
 ![Strawbang's GitHub stats](https://github-readme-stats.vercel.app/api?username=strawbang&show_icons=true&theme=transparent)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=strawbang&layout=compact&theme=transparent)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=strawbang&theme=transparent)](https://git.io/streak-stats)
+
+</div>
+
+## 🎯 Featured Projects
+
+### 🎙️ VoiceVista
+- Innovative music and podcast streaming application
+- Technologies: React Native, TypeScript, Node.js, PostgreSQL
+- Key Features:
+  - Modern and intuitive user interface
+  - High-quality audio streaming
+  - Playlist and favorites management
+  - Personalized recommendation system
+- [GitHub](https://github.com/strawbang/VoiceVista)
+
+### 💼 Consultant Project
+- Management platform for consultants and freelancers
+- Technologies: React, TypeScript, NestJS, PostgreSQL, Docker
+- Key Features:
+  - Mission and contract management
+  - Time tracking and invoicing
+  - Analytics dashboard
+  - Complete administrative interface
+- [GitHub](https://github.com/strawbang/consultant)
 
 <br/>
 
-## My Skill Set
+## 💼 Professional Experience
 
-<table><tr><td valign="top" width="33%">
+### Full-Stack Software Engineer | Wemanity Group (METRO FRANCE)
+#### Paris, France | March 2022 - March 2024
+- 🏗️ Led development of warehouse operations and employee management systems
+- 🚀 Implemented advanced kiosk features and order tracking screens
+- 📊 Developed innovative employee bonus management system for 93 warehouses
+- 🔧 Tech Stack: TypeScript, GCP, Kubernetes, Scrum
 
-### Frontend
+### Full-Stack Software Engineer | MaFormation Médicale
+#### Paris, France | October 2020 - December 2021
+- 🔄 Led transition from PHP to JavaScript stack
+- 🎨 Designed and implemented NodeJS/React application
+- 🏛️ Established component-based architecture for better scalability
 
-<div align="center">  
-<a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
-<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
-<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
-<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
-<a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" /></a>  
-<a href="http://getbem.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bem.svg" alt="BEM" height="50" /></a>  
-<a href="https://webpack.js.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/webpack-original.svg" alt="Webpack" height="50" /></a>  
-<a href="https://www.jestjs.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/jest.svg" alt="Jest" height="50" /></a>  
-</div>
+### Full-Stack Software Engineer | Fokal Studio
+#### Ferrières-en-Brie, France | June 2018 - May 2020
+- 💻 Led development of custom client websites
+- 🔧 Specialized in WordPress customization and digital solutions
+- 🚀 Drove digital transformation initiatives
 
-</td><td valign="top" width="33%">
+## 🎓 Education
 
-### Backend
-
-<div align="center">  
-<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
-<a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" /></a>  
-<a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" /></a>  
-<a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" /></a>  
-<a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>  
-<a href="https://www.nginx.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nginx-original.svg" alt="Nginx" height="50" /></a>  
-<a href="https://expressjs.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="50" /></a>  
-<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
-<a href="https://redux.js.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/redux-original.svg" alt="Redux" height="50" /></a>  
-<a href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" /></a>  
-<a href="https://www.jestjs.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/jest.svg" alt="Jest" height="50" /></a>  
-<a href="https://www.postgresql.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="50" /></a>  
-<a href="https://graphql.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/graphql.png" alt="GraphQL" height="50" /></a>  
-<a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" /></a>  
-<a href="https://mariadb.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mariadb.png" alt="Maria DB" height="50" /></a>  
-</div>
-
-</td><td valign="top" width="33%">
-
-### DevOps
-
-<div align="center">  
-<a href="https://kubernetes.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/kubernetes-icon.svg" alt="Kubernetes" height="50" /></a>  
-<a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>  
-<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
-<a href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" /></a>  
-<a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" /></a>  
-<a href="https://www.jenkins.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/jenkins-icon.svg" alt="Jenkins" height="50" /></a>  
-</div>
-
-</td></tr></table>
-
-<br/>
+- **Master of Engineering, Computer Science** - Expert Architect Web
+  *Institut F2I, Paris | 2021*
+  
+- **Bachelor's Degree in Computer Engineering** - Digital Project Manager
+  *Institut F2I, Paris | 2020*
+  
+- **Diploma of Advanced Technician** - Solutions and Business Applications
+  *IRIS, Paris | 2018*
 
 ## Connect with me
 
@@ -95,9 +117,15 @@
 </a>  
 </div>
 
-<br/>
+## 🏆 Key Achievements
 
-## Blog posts
+- 🌟 Successfully led development of warehouse management system impacting 93 METRO France locations
+- 🚀 Drove successful transition from PHP to modern JavaScript stack at MaFormation Médicale
+- 📈 Implemented component-based architecture improving development efficiency and scalability
+- 🔧 Established standardized technologies and processes across multiple projects
+- 👥 Actively contributed to knowledge sharing and team collaboration
+
+## 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
 - [10 Key Trends Shaping the Future of Software Development by 2025](https://medium.com/@strawbang/10-key-trends-shaping-the-future-of-software-development-by-2025-b0c666b9a6fe?source=rss-d674a1d03194------2)
