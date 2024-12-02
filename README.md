@@ -43,7 +43,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Strawbang&layout=compact&theme=transparent" alt="Top Languages" />
 </p>
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Strawbang&theme=transparent" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Strawbang&theme=transparent&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
 </p>
 
 ## 🎯 Featured Projects
