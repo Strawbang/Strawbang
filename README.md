@@ -37,13 +37,13 @@
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=strawbang&show_icons=true&theme=transparent" alt="Strawbang's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Strawbang&show_icons=true&theme=transparent" alt="Strawbang's GitHub stats" />
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=strawbang&layout=compact&theme=transparent" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Strawbang&layout=compact&theme=transparent" alt="Top Languages" />
 </p>
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=strawbang&theme=transparent" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=Strawbang&theme=transparent" alt="GitHub Streak" />
 </p>
 
 ## 🎯 Featured Projects
