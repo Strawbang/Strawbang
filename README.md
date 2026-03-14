@@ -1,15 +1,16 @@
 ![Header](./github-header-image.png)
 
-### <div align="center">I'm Djamel, Full-Stack Software Engineer 👨‍💻 passionate about modern web technologies 🚀</div>
+### <div align="center">I'm Djamel, Full-Stack Software Engineer 👨‍💻 passionate about modern web technologies & AI 🚀</div>
 
 ## 👨‍💻 About Me
 
-- 🔭 I'm currently open to new opportunities!
-- 💼 Over 5 years of experience in full-stack development
+- 🔭 Currently working at Ippon Technologies as Full-Stack Software Engineer
+- 💼 Over 7 years of experience in full-stack development
 - 🌱 Passionate about:
   - Modern Web Architecture & Microservices
   - DevOps & Cloud Infrastructure (GCP, Docker, K8s)
-  - Component-Based Architecture & Atomic Design
+  - AI Engineering (RAG, Agentic Workflows, MCP)
+  - Systems Programming with Rust
   - Test-Driven Development & Clean Code
 - 📫 Reach me at: dbougouffa@gmail.com
 - 🌐 Portfolio: [djamel-bougouffa.com](https://djamel-bougouffa.com)
@@ -18,11 +19,16 @@
 ## 🛠️ Technical Stack
 
 ### Languages & Frameworks
-- **Frontend**: TypeScript, JavaScript, React.js, Redux, HTML5, CSS3
-- **Backend**: Node.js, NestJS, Express.js, PHP
+- **Frontend**: TypeScript, JavaScript, React.js, Next.js, Redux, HTML5, CSS3
+- **Backend**: Node.js, NestJS, Express.js, Rust, PHP
 - **Testing**: Jest, Cucumber.js
 - **API**: REST, GraphQL, WebSocket, Apollo Server/Client
 - **ORM**: TypeORM, Sequelize, Mongoose
+
+### AI & Developer Tooling
+- **AI Engineering**: RAG, LLM Integration, Agentic Workflows, MCP
+- **AST & Parsing**: Tree-sitter, AST Analysis
+- **GenAI**: Prompt Engineering, AI-assisted code modernization
 
 ### Databases & Infrastructure
 - **Databases**: PostgreSQL, MySQL, MariaDB, MongoDB, Redis
@@ -77,7 +83,7 @@
 
 ### 💼 Consultant Tracking
 - Modern web application for consultant time tracking and management
-- Technologies: 
+- Technologies:
   - Frontend: Angular 14, TypeScript, SCSS, NgRx
   - Backend: Spring Boot 3, Java 17, Hibernate
   - Database: MariaDB
@@ -94,7 +100,6 @@
   - Project and task organization
   - Client management interface
   - Automated reporting system
-  - Clean and maintainable codebase
   - Containerized deployment with Docker Swarm
   - Load balancing with Traefik
   - Secure authentication system
@@ -102,18 +107,35 @@
 
 <br/>
 
+## 🤝 Open Source Contributions
+
+- **[DefinitelyTyped/DefinitelyTyped](https://github.com/DefinitelyTyped/DefinitelyTyped)** — Added French documentation ([#66193](https://github.com/DefinitelyTyped/DefinitelyTyped/pull/66193))
+- **[tree-sitter/tree-sitter-rust](https://github.com/tree-sitter/tree-sitter-rust)** — Fix incorrect parsing of unary operators after the `..` range operator (e.g. `..*a` was parsed as a binary expression instead of a prefix range)
+
 ## 💼 Professional Experience
+
+### Full-Stack Software Engineer | Ippon Technologies
+#### Paris, France | November 2024 - Present
+- 🦀 Building an AI-powered legacy modernization CLI in Rust using Tree-sitter for AST parsing and RAG for automated documentation
+- 🤖 Implementing agentic workflows with MCP, creating autonomous agents for testing and refactoring
+- 💬 Developing "Chat with Code" capability for natural language interaction with codebases
+- 🔧 Tech Stack: Rust, Tree-sitter, RAG, MCP, TypeScript, Node.js, LLM APIs
+
+### Full-Stack Software Engineer | SYSTRAN by ChapsVision
+#### Paris, France | January 2025 - April 2025
+- 🌐 Developed features on an AI NLP platform for translation services
+- 🔧 Tech Stack: TypeScript, Next.js, NLP, Agile
 
 ### Full-Stack Software Engineer | Wemanity Group (METRO FRANCE)
 #### Paris, France | March 2022 - March 2024
 - 🏗️ Led development of warehouse operations and employee management systems
 - 🚀 Implemented advanced kiosk features and order tracking screens
 - 📊 Developed innovative employee bonus management system for 93 warehouses
-- 🔧 Tech Stack: TypeScript, GCP, Kubernetes, Scrum
+- 🔧 Tech Stack: TypeScript, React, Node.js, GraphQL, GCP, Kubernetes
 
 ### Full-Stack Software Engineer | MaFormation Médicale
-#### Paris, France | October 2020 - December 2021
-- 🔄 Led transition from PHP to JavaScript stack
+#### Paris, France | September 2020 - February 2022
+- 🔄 Led transition from PHP to JavaScript stack (+40% performance, +30% maintainability)
 - 🎨 Designed and implemented NodeJS/React application
 - 🏛️ Established component-based architecture for better scalability
 
@@ -127,10 +149,10 @@
 
 - **Master of Engineering, Computer Science** - Expert Architect Web
   *Institut F2I, Paris | 2021*
-  
+
 - **Bachelor's Degree in Computer Engineering** - Digital Project Manager
   *Institut F2I, Paris | 2020*
-  
+
 - **Diploma of Advanced Technician** - Solutions and Business Applications
   *IRIS, Paris | 2018*
 
@@ -146,22 +168,24 @@
 <a href="https://linkedin.com/in/djamel-bougouffa" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
-<a href="https://instagram.com/strawbang" target="_blank">
-<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
-</a>  
 </div>
 
 ## 🏆 Key Achievements
 
+- 🦀 Building production Rust tooling with Tree-sitter, RAG and agentic workflows at Ippon Technologies
 - 🌟 Successfully led development of warehouse management system impacting 93 METRO France locations
 - 🚀 Drove successful transition from PHP to modern JavaScript stack at MaFormation Médicale
 - 📈 Implemented component-based architecture improving development efficiency and scalability
 - 🔧 Established standardized technologies and processes across multiple projects
-- 👥 Actively contributed to knowledge sharing and team collaboration
 
 ## 📝 Latest Blog Posts
 
+### Medium
 <!-- BLOG-POST-LIST:START -->
 - [Building a Blazing-Fast Portfolio with Astro and Deploying with Netlify](https://medium.com/@strawbang/building-a-blazing-fast-portfolio-with-astro-and-deploying-with-netlify-28c6022de1ef?source=rss-d674a1d03194------2)
-- [Full-Remote Bliss: Fullstack Dev’s Jet Lag Advantage](https://medium.com/@strawbang/full-remote-bliss-fullstack-devs-jet-lag-advantage-f90cb2df34b1?source=rss-d674a1d03194------2)
+- [Full-Remote Bliss: Fullstack Dev's Jet Lag Advantage](https://medium.com/@strawbang/full-remote-bliss-fullstack-devs-jet-lag-advantage-f90cb2df34b1?source=rss-d674a1d03194------2)
 <!-- BLOG-POST-LIST:END -->
+
+### Ippon Technologies Blog
+<!-- IPPON-POST-LIST:START -->
+<!-- IPPON-POST-LIST:END -->

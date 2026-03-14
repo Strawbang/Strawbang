@@ -17,3 +17,9 @@ jobs:
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
           feed_list: "https://medium.com/feed/@strawbang"
+          comment_tag_name: "BLOG-POST-LIST"
+      - name: Pull in Ippon blog
+        uses: gautamkrishnar/blog-post-workflow@v1
+        with:
+          feed_list: "https://blog.ippon.fr/author/djamel-bougouffa/feed/"
+          comment_tag_name: "IPPON-POST-LIST"
