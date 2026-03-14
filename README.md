@@ -188,4 +188,6 @@
 
 ### Ippon Technologies Blog
 <!-- IPPON-POST-LIST:START -->
+- [Model Context Protocol &lpar;MCP&rpar; : Comprendre le standard et retour d’expérience pour exposer un CLI Rust dans votre IDE](https://blog.ippon.fr/2026/03/11/model-context-protocol-mcp-cli-rust-ide/)
+- [Spec-Driven Development &lpar;SDD&rpar; : de la spécification au code avec l’IA &lpar;exemple complet avec Kiro&rpar;](https://blog.ippon.fr/2026/02/18/spec-driven-development/)
 <!-- IPPON-POST-LIST:END -->
