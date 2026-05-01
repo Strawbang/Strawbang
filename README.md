@@ -180,15 +180,6 @@
 
 ## 📝 Latest Blog Posts
 
-### Medium
-<!-- BLOG-POST-LIST:START -->
-- [How I Use Claude Code and Jira MCP to Modernize Legacy Codebases](https://medium.com/@strawbang/how-i-use-claude-code-and-jira-mcp-to-modernize-legacy-codebases-c2761cf444b5?source=rss-d674a1d03194------2)
-- [Building a Blazing-Fast Portfolio with Astro and Deploying with Netlify](https://medium.com/@strawbang/building-a-blazing-fast-portfolio-with-astro-and-deploying-with-netlify-28c6022de1ef?source=rss-d674a1d03194------2)
-- [Full-Remote Bliss: Fullstack Dev’s Jet Lag Advantage](https://medium.com/@strawbang/full-remote-bliss-fullstack-devs-jet-lag-advantage-f90cb2df34b1?source=rss-d674a1d03194------2)
-<!-- BLOG-POST-LIST:END -->
-
-### Ippon Technologies Blog
-<!-- IPPON-POST-LIST:START -->
-- [Model Context Protocol &lpar;MCP&rpar; : Comprendre le standard et retour d’expérience pour exposer un CLI Rust dans votre IDE](https://blog.ippon.fr/2026/03/11/model-context-protocol-mcp-cli-rust-ide/)
-- [Spec-Driven Development &lpar;SDD&rpar; : de la spécification au code avec l’IA &lpar;exemple complet avec Kiro&rpar;](https://blog.ippon.fr/2026/02/18/spec-driven-development/)
-<!-- IPPON-POST-LIST:END -->
+### Personal Blog
+<!-- PERSONAL-BLOG-LIST:START -->
+<!-- PERSONAL-BLOG-LIST:END -->
