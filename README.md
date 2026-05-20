@@ -1,42 +1,67 @@
 ![Header](./github-header-image.png)
 
-### <div align="center">I'm Djamel, Full-Stack Software Engineer 👨‍💻 passionate about modern web technologies & AI 🚀</div>
+<div align="center">
 
-## 👨‍💻 About Me
+### I'm Djamel, Full-Stack Software Engineer 👨‍💻 passionate about modern web technologies & AI 🚀
 
-- 🔭 Currently at **Ippon Technologies AI Lab** (since February 2026) — building AI-driven legacy modernization tools in Rust, on a client mission at SUEZ IWS (Liferay → Angular micro-frontends, CI/CD, security hardening)
-- 💼 Over 5 years of experience in full-stack development
-- 🌱 Passionate about:
-  - Legacy modernization & clean architecture
-  - AI Engineering (RAG, Agentic Workflows, MCP)
-  - Systems Programming with Rust
-  - DevOps & Cloud Infrastructure (AWS, Docker, K8s)
-  - Test-Driven Development & Software Craftsmanship
-- 📫 Reach me at: djamel.bougouffa@gmail.com
-- 🌐 Portfolio: [djamel-bougouffa.com](https://djamel-bougouffa.com)
-- 🗣️ Languages: French (Native), English (Professional)
+� **Currently:** Ippon Technologies AI Lab — building AI-driven legacy modernization tools in Rust
+🎯 **Mission:** SUEZ IWS — Liferay → Angular micro-frontends, CI/CD, security hardening
+🌐 **Portfolio:** [djamel-bougouffa.com](https://djamel-bougouffa.com) · 📫 djamel.bougouffa@gmail.com
 
-## 🛠️ Technical Stack
+</div>
 
-### Languages & Frameworks
-- **Frontend**: TypeScript, JavaScript, Angular, React.js, Next.js, HTML5, CSS3
-- **Backend**: Node.js, NestJS, Express.js, Java, Rust
-- **Testing**: Jest, Playwright, Cucumber.js
-- **API**: REST, GraphQL, WebSocket, Apollo Server/Client
+---
 
-### AI & Developer Tooling
-- **AI Engineering**: RAG, LLM Integration, Agentic Workflows, MCP
-- **AST & Parsing**: Tree-sitter, AST Analysis
-- **GenAI**: Prompt Engineering, AI-assisted code modernization, Claude Code, Windsurf
+## 🛠️ Tech Stack
 
-### Databases & Infrastructure
-- **Databases**: PostgreSQL, MySQL, MongoDB, Redis, Qdrant
-- **DevOps**: Docker, Kubernetes, Terraform, GitHub Actions, GitLab CI
-- **Cloud**: AWS (EC2, ECR, ALB, Secrets Manager), GCP
+**Languages**
 
-### Methodologies & Patterns
-- **Architecture**: Hexagonal Architecture, Micro-frontends, Domain-Driven Design
-- **Process**: Agile, Scrum, Spec-Driven Development
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+
+**Frontend**
+
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+
+**Backend**
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+
+**AI & Tooling**
+
+![RAG](https://img.shields.io/badge/RAG-FF6F00?style=for-the-badge&logo=ai&logoColor=white)
+![MCP](https://img.shields.io/badge/MCP-7B2FBE?style=for-the-badge&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude_Code-CC785C?style=for-the-badge&logoColor=white)
+![Windsurf](https://img.shields.io/badge/Windsurf-0EA5E9?style=for-the-badge&logoColor=white)
+
+**DevOps & Cloud**
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+
+**Databases**
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Qdrant](https://img.shields.io/badge/Qdrant-FF3366?style=for-the-badge&logoColor=white)
+
+## 🏆 Trophies
+
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=Strawbang&theme=onedark&no-frame=true&row=1&column=7" alt="Strawbang's trophies"/>
+  </a>
+</p>
 
 ## 📊 GitHub Statistics
 
@@ -88,53 +113,20 @@
 - **[DefinitelyTyped/DefinitelyTyped](https://github.com/DefinitelyTyped/DefinitelyTyped)** — Added French documentation ([#66193](https://github.com/DefinitelyTyped/DefinitelyTyped/pull/66193))
 - **[tree-sitter/tree-sitter-rust](https://github.com/tree-sitter/tree-sitter-rust)** — Fix incorrect parsing of unary operators after the `..` range operator (e.g. `..*a` was parsed as a binary expression instead of a prefix range)
 
-## 💼 Professional Experience
+## 💼 Experience & Education
 
-### Full-Stack Developer | SUEZ IWS (via Ippon Technologies)
-#### Paris, France | March 2026 - Present
-- 🔄 Modernizing Pléco B2B extranet: migrating legacy Liferay UI to Angular micro-frontends
-- 🔧 Rebuilding CI/CD pipeline and security hardening for industrial hazardous waste management
-- 🏗️ Tech Stack: Angular, TypeScript, Java, Liferay, GitLab CI
+Full details on my [portfolio](https://djamel-bougouffa.com/about/) — highlights:
 
-### Full-Stack Software Engineer | Ippon Technologies — AI Lab
-#### Paris, France | February 2026 - Present
-- 🦀 Building an AI-powered legacy modernization CLI in Rust (Tree-sitter + RAG + MCP)
-- 🤖 Implementing agentic workflows with Claude Code and custom MCP servers
-- ☁️ Deployed on AWS EC2 with Terraform (ECR, ALB, EBS, Secrets Manager, OIDC CI/CD)
-- 🔧 Tech Stack: Rust, Tree-sitter, RAG, MCP, Terraform, AWS
+| Period | Role | Company |
+|--------|------|---------|
+| Mar 2026 – Present | Full-Stack Developer | SUEZ IWS (via Ippon) |
+| Feb 2026 – Present | Software Engineer — AI Lab | Ippon Technologies |
+| Nov 2025 – Feb 2026 | Software Engineer — R&D | Ippon Technologies |
+| Jan 2025 – Apr 2025 | Software Engineer | SYSTRAN by ChapsVision |
+| Mar 2022 – Mar 2024 | Fullstack Developer | Wemanity Group (METRO France) |
+| Sep 2020 – Feb 2022 | Fullstack Developer | Ma Formation Médicale |
 
-### Full-Stack Software Engineer | Ippon Technologies — R&D
-#### Paris, France | November 2025 - February 2026
-- 🔬 Internal R&D on AI-assisted legacy code modernization
-- 🔧 Tech Stack: Rust, TypeScript, LLM APIs
-
-### Full-Stack Software Engineer | SYSTRAN by ChapsVision
-#### Paris, France | January 2025 - April 2025
-- 🌐 Contributed to an AI-powered NLP platform for translation services
-- 🔧 Tech Stack: TypeScript, Next.js, NLP, Agile
-
-### Full-Stack Developer | Wemanity Group (METRO France)
-#### Paris, France | March 2022 - March 2024
-- 🏗️ Led development of warehouse operations and employee management systems
-- 📊 Developed employee bonus management system for 93 warehouses
-- 🔧 Tech Stack: TypeScript, React, Node.js, GraphQL, GCP, Kubernetes
-
-### Full-Stack Developer | Ma Formation Médicale
-#### Paris, France | September 2020 - February 2022
-- 🔄 Redesigned API and transitioned legacy PHP codebase to JavaScript
-- 🏛️ Implemented modular, component-based architecture
-- 🔧 Tech Stack: Node.js, React, TypeScript
-
-## 🎓 Education
-
-- **Master of Engineering, Computer Science** - Expert Architect Web
-  *Institut F2I, Paris | 2021*
-
-- **Bachelor's Degree in Computer Engineering** - Digital Project Manager
-  *Institut F2I, Paris | 2020*
-
-- **Diploma of Advanced Technician** - Solutions and Business Applications
-  *IRIS, Paris | 2018*
+🎓 Master's in Computer Engineering — Institut F2I, Paris (2021)
 
 ## Connect with me
 
