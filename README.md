@@ -4,7 +4,7 @@
 
 ## 👨‍💻 About Me
 
-- 🔭 Currently on a mission at **SUEZ IWS** via Ippon Technologies — modernizing a legacy B2B extranet (Liferay → Angular micro-frontends, CI/CD, security hardening)
+- 🔭 Currently at **Ippon Technologies AI Lab** — building AI-driven legacy modernization tools in Rust, on a client mission at SUEZ IWS (Liferay → Angular micro-frontends, CI/CD, security hardening)
 - 💼 Over 5 years of experience in full-stack development
 - 🌱 Passionate about:
   - Legacy modernization & clean architecture
@@ -90,18 +90,13 @@
 
 ## 💼 Professional Experience
 
-### Full-Stack Software Engineer | SUEZ IWS (via Ippon Technologies)
-#### Paris, France | 2025 - Present
-- 🔄 Migrating legacy Liferay B2B extranet to Angular micro-frontends
-- 🔧 Rebuilding CI/CD pipeline and security hardening for industrial hazardous waste management platform
-- 🏗️ Tech Stack: Angular, TypeScript, Java, Liferay, GitLab CI
-
-### Full-Stack Software Engineer | Ippon Technologies (Internal R&D)
-#### Paris, France | November 2024 - 2025
-- 🦀 Built an AI-powered legacy modernization CLI in Rust (Tree-sitter + RAG + MCP)
-- 🤖 Implemented agentic workflows with Claude Code and custom MCP servers
+### Full-Stack Software Engineer | Ippon Technologies — AI Lab
+#### Paris, France | November 2025 - Present
+- 🦀 Building an AI-powered legacy modernization CLI in Rust (Tree-sitter + RAG + MCP)
+- 🤖 Implementing agentic workflows with Claude Code and custom MCP servers
 - ☁️ Deployed on AWS EC2 with Terraform (ECR, ALB, EBS, Secrets Manager, OIDC CI/CD)
-- 🔧 Tech Stack: Rust, Tree-sitter, RAG, MCP, Terraform, AWS
+- 🔄 Client mission at SUEZ IWS: migrating legacy Liferay B2B extranet to Angular micro-frontends, CI/CD rebuild, security hardening
+- 🔧 Tech Stack: Rust, Angular, TypeScript, Java, RAG, MCP, Terraform, AWS
 
 ### Full-Stack Software Engineer | SYSTRAN by ChapsVision
 #### Paris, France | 2025
