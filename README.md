@@ -4,41 +4,39 @@
 
 ## 👨‍💻 About Me
 
-- 🔭 Currently working at Ippon Technologies as Full-Stack Software Engineer
-- 💼 Over 7 years of experience in full-stack development
+- 🔭 Currently on a mission at **SUEZ IWS** via Ippon Technologies — modernizing a legacy B2B extranet (Liferay → Angular micro-frontends, CI/CD, security hardening)
+- 💼 Over 5 years of experience in full-stack development
 - 🌱 Passionate about:
-  - Modern Web Architecture & Microservices
-  - DevOps & Cloud Infrastructure (GCP, Docker, K8s)
+  - Legacy modernization & clean architecture
   - AI Engineering (RAG, Agentic Workflows, MCP)
   - Systems Programming with Rust
-  - Test-Driven Development & Clean Code
-- 📫 Reach me at: dbougouffa@gmail.com
+  - DevOps & Cloud Infrastructure (AWS, Docker, K8s)
+  - Test-Driven Development & Software Craftsmanship
+- 📫 Reach me at: djamel.bougouffa@gmail.com
 - 🌐 Portfolio: [djamel-bougouffa.com](https://djamel-bougouffa.com)
 - 🗣️ Languages: French (Native), English (Professional)
 
 ## 🛠️ Technical Stack
 
 ### Languages & Frameworks
-- **Frontend**: TypeScript, JavaScript, React.js, Next.js, Redux, HTML5, CSS3
-- **Backend**: Node.js, NestJS, Express.js, Rust, PHP
-- **Testing**: Jest, Cucumber.js
+- **Frontend**: TypeScript, JavaScript, Angular, React.js, Next.js, HTML5, CSS3
+- **Backend**: Node.js, NestJS, Express.js, Java, Rust
+- **Testing**: Jest, Playwright, Cucumber.js
 - **API**: REST, GraphQL, WebSocket, Apollo Server/Client
-- **ORM**: TypeORM, Sequelize, Mongoose
 
 ### AI & Developer Tooling
 - **AI Engineering**: RAG, LLM Integration, Agentic Workflows, MCP
 - **AST & Parsing**: Tree-sitter, AST Analysis
-- **GenAI**: Prompt Engineering, AI-assisted code modernization
+- **GenAI**: Prompt Engineering, AI-assisted code modernization, Claude Code, Windsurf
 
 ### Databases & Infrastructure
-- **Databases**: PostgreSQL, MySQL, MariaDB, MongoDB, Redis
-- **DevOps**: Docker, Kubernetes, Swarm, Traefik, Jenkins, GitHub Actions
-- **Cloud**: Google Cloud Platform (GCP), Portainer
+- **Databases**: PostgreSQL, MySQL, MongoDB, Redis, Qdrant
+- **DevOps**: Docker, Kubernetes, Terraform, GitHub Actions, GitLab CI
+- **Cloud**: AWS (EC2, ECR, ALB, Secrets Manager), GCP
 
 ### Methodologies & Patterns
-- **Architecture**: Hexagonal Architecture, MVC
-- **Design**: Atomic Design, Object-Oriented Programming, Design Patterns
-- **Process**: Agile, Scrum
+- **Architecture**: Hexagonal Architecture, Micro-frontends, Domain-Driven Design
+- **Process**: Agile, Scrum, Spec-Driven Development
 
 ## 📊 GitHub Statistics
 
@@ -71,38 +69,16 @@
 
 ## 🎯 Featured Projects
 
-### 🎙️ VoiceVista
-- Innovative music and podcast streaming application
-- Technologies: React Native, TypeScript, Node.js, PostgreSQL
-- Key Features:
-  - Modern and intuitive user interface
-  - High-quality audio streaming
-  - Playlist and favorites management
-  - Personalized recommendation system
-- [GitHub](https://github.com/strawbang/VoiceVista)
+### 🦀 MCP CLI — Model Context Protocol in Rust
+- CLI tool and MCP server exposing terminal commands as AI-callable tools
+- Powers agentic workflows in Claude Code, Cursor, and Windsurf
+- Technologies: Rust, MCP, TypeScript
+- [Read the article](https://djamel-bougouffa.com/blog/model-context-protocol-mcp-cli-rust-ide/)
 
 ### 💼 Consultant Tracking
-- Modern web application for consultant time tracking and management
-- Technologies:
-  - Frontend: Angular 14, TypeScript, SCSS, NgRx
-  - Backend: Spring Boot 3, Java 17, Hibernate
-  - Database: MariaDB
-  - Infrastructure: Docker, Docker Swarm, Traefik
-  - CI/CD: GitHub Actions
-- Architecture:
-  - Backend: Hexagonal Architecture (Ports & Adapters)
-    - Domain-driven core business logic
-    - Clear separation of concerns
-    - Flexible infrastructure adapters
-  - Frontend: Component-based architecture with NgRx state management
-- Key Features:
-  - Time tracking with activity logs
-  - Project and task organization
-  - Client management interface
-  - Automated reporting system
-  - Containerized deployment with Docker Swarm
-  - Load balancing with Traefik
-  - Secure authentication system
+- Full-stack web app for consultant time tracking with hexagonal architecture
+- Technologies: Angular 14, Spring Boot 3, Java 17, Docker Swarm, Traefik, GitHub Actions
+- Architecture: Hexagonal (Ports & Adapters) backend + NgRx frontend
 - [GitHub](https://github.com/strawbang/consultant-tracking)
 
 <br/>
@@ -114,36 +90,34 @@
 
 ## 💼 Professional Experience
 
-### Full-Stack Software Engineer | Ippon Technologies
-#### Paris, France | November 2024 - Present
-- 🦀 Building an AI-powered legacy modernization CLI in Rust using Tree-sitter for AST parsing and RAG for automated documentation
-- 🤖 Implementing agentic workflows with MCP, creating autonomous agents for testing and refactoring
-- 💬 Developing "Chat with Code" capability for natural language interaction with codebases
-- 🔧 Tech Stack: Rust, Tree-sitter, RAG, MCP, TypeScript, Node.js, LLM APIs
+### Full-Stack Software Engineer | SUEZ IWS (via Ippon Technologies)
+#### Paris, France | 2025 - Present
+- 🔄 Migrating legacy Liferay B2B extranet to Angular micro-frontends
+- 🔧 Rebuilding CI/CD pipeline and security hardening for industrial hazardous waste management platform
+- 🏗️ Tech Stack: Angular, TypeScript, Java, Liferay, GitLab CI
+
+### Full-Stack Software Engineer | Ippon Technologies (Internal R&D)
+#### Paris, France | November 2024 - 2025
+- 🦀 Built an AI-powered legacy modernization CLI in Rust (Tree-sitter + RAG + MCP)
+- 🤖 Implemented agentic workflows with Claude Code and custom MCP servers
+- ☁️ Deployed on AWS EC2 with Terraform (ECR, ALB, EBS, Secrets Manager, OIDC CI/CD)
+- 🔧 Tech Stack: Rust, Tree-sitter, RAG, MCP, Terraform, AWS
 
 ### Full-Stack Software Engineer | SYSTRAN by ChapsVision
-#### Paris, France | January 2025 - April 2025
+#### Paris, France | 2025
 - 🌐 Developed features on an AI NLP platform for translation services
-- 🔧 Tech Stack: TypeScript, Next.js, NLP, Agile
+- 🔧 Tech Stack: TypeScript, Next.js, NLP
 
 ### Full-Stack Software Engineer | Wemanity Group (METRO FRANCE)
 #### Paris, France | March 2022 - March 2024
 - 🏗️ Led development of warehouse operations and employee management systems
-- 🚀 Implemented advanced kiosk features and order tracking screens
-- 📊 Developed innovative employee bonus management system for 93 warehouses
+- 📊 Developed employee bonus management system for 93 warehouses
 - 🔧 Tech Stack: TypeScript, React, Node.js, GraphQL, GCP, Kubernetes
 
 ### Full-Stack Software Engineer | MaFormation Médicale
 #### Paris, France | September 2020 - February 2022
 - 🔄 Led transition from PHP to JavaScript stack (+40% performance, +30% maintainability)
-- 🎨 Designed and implemented NodeJS/React application
-- 🏛️ Established component-based architecture for better scalability
-
-### Full-Stack Software Engineer | Fokal Studio
-#### Ferrières-en-Brie, France | June 2018 - May 2020
-- 💻 Led development of custom client websites
-- 🔧 Specialized in WordPress customization and digital solutions
-- 🚀 Drove digital transformation initiatives
+- 🔧 Tech Stack: Node.js, React, TypeScript
 
 ## 🎓 Education
 
@@ -172,11 +146,11 @@
 
 ## 🏆 Key Achievements
 
-- 🦀 Building production Rust tooling with Tree-sitter, RAG and agentic workflows at Ippon Technologies
-- 🌟 Successfully led development of warehouse management system impacting 93 METRO France locations
-- 🚀 Drove successful transition from PHP to modern JavaScript stack at MaFormation Médicale
-- 📈 Implemented component-based architecture improving development efficiency and scalability
-- 🔧 Established standardized technologies and processes across multiple projects
+- 🦀 Built a production Rust AI tool (RAG + MCP + Tree-sitter) deployed on AWS with Terraform and GitLab OIDC CI/CD
+- 🔄 Migrating a legacy Liferay B2B extranet to Angular micro-frontends for SUEZ IWS industrial platform
+- 🌟 Led development of warehouse management system impacting 93 METRO France locations
+- 🚀 Led PHP → JavaScript stack transition at MaFormation Médicale (+40% performance)
+- 📝 Technical writer: articles on Claude Code + MCP, RAG on AWS, software craftsmanship at [djamel-bougouffa.com](https://djamel-bougouffa.com/blog/)
 
 ## 📝 Latest Blog Posts
 
