@@ -4,7 +4,7 @@
 
 ## 👨‍💻 About Me
 
-- 🔭 Currently at **Ippon Technologies AI Lab** — building AI-driven legacy modernization tools in Rust, on a client mission at SUEZ IWS (Liferay → Angular micro-frontends, CI/CD, security hardening)
+- 🔭 Currently at **Ippon Technologies AI Lab** (since February 2026) — building AI-driven legacy modernization tools in Rust, on a client mission at SUEZ IWS (Liferay → Angular micro-frontends, CI/CD, security hardening)
 - 💼 Over 5 years of experience in full-stack development
 - 🌱 Passionate about:
   - Legacy modernization & clean architecture
@@ -90,28 +90,39 @@
 
 ## 💼 Professional Experience
 
+### Full-Stack Developer | SUEZ IWS (via Ippon Technologies)
+#### Paris, France | March 2026 - Present
+- 🔄 Modernizing Pléco B2B extranet: migrating legacy Liferay UI to Angular micro-frontends
+- 🔧 Rebuilding CI/CD pipeline and security hardening for industrial hazardous waste management
+- 🏗️ Tech Stack: Angular, TypeScript, Java, Liferay, GitLab CI
+
 ### Full-Stack Software Engineer | Ippon Technologies — AI Lab
-#### Paris, France | November 2025 - Present
+#### Paris, France | February 2026 - Present
 - 🦀 Building an AI-powered legacy modernization CLI in Rust (Tree-sitter + RAG + MCP)
 - 🤖 Implementing agentic workflows with Claude Code and custom MCP servers
 - ☁️ Deployed on AWS EC2 with Terraform (ECR, ALB, EBS, Secrets Manager, OIDC CI/CD)
-- 🔄 Client mission at SUEZ IWS: migrating legacy Liferay B2B extranet to Angular micro-frontends, CI/CD rebuild, security hardening
-- 🔧 Tech Stack: Rust, Angular, TypeScript, Java, RAG, MCP, Terraform, AWS
+- 🔧 Tech Stack: Rust, Tree-sitter, RAG, MCP, Terraform, AWS
+
+### Full-Stack Software Engineer | Ippon Technologies — R&D
+#### Paris, France | November 2025 - February 2026
+- 🔬 Internal R&D on AI-assisted legacy code modernization
+- 🔧 Tech Stack: Rust, TypeScript, LLM APIs
 
 ### Full-Stack Software Engineer | SYSTRAN by ChapsVision
-#### Paris, France | 2025
-- 🌐 Developed features on an AI NLP platform for translation services
-- 🔧 Tech Stack: TypeScript, Next.js, NLP
+#### Paris, France | January 2025 - April 2025
+- 🌐 Contributed to an AI-powered NLP platform for translation services
+- 🔧 Tech Stack: TypeScript, Next.js, NLP, Agile
 
-### Full-Stack Software Engineer | Wemanity Group (METRO FRANCE)
+### Full-Stack Developer | Wemanity Group (METRO France)
 #### Paris, France | March 2022 - March 2024
 - 🏗️ Led development of warehouse operations and employee management systems
 - 📊 Developed employee bonus management system for 93 warehouses
 - 🔧 Tech Stack: TypeScript, React, Node.js, GraphQL, GCP, Kubernetes
 
-### Full-Stack Software Engineer | MaFormation Médicale
+### Full-Stack Developer | Ma Formation Médicale
 #### Paris, France | September 2020 - February 2022
-- 🔄 Led transition from PHP to JavaScript stack (+40% performance, +30% maintainability)
+- 🔄 Redesigned API and transitioned legacy PHP codebase to JavaScript
+- 🏛️ Implemented modular, component-based architecture
 - 🔧 Tech Stack: Node.js, React, TypeScript
 
 ## 🎓 Education
