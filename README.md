@@ -4,8 +4,9 @@
 
 ### I'm Djamel, Full-Stack Software Engineer 👨‍💻 passionate about modern web technologies & AI 🚀
 
-� **Currently:** Ippon Technologies AI Lab — building AI-driven legacy modernization tools in Rust
+🔨 **Currently:** Ippon Technologies AI Lab — building AI-driven legacy modernization tools in Rust
 🎯 **Mission:** SUEZ IWS — Liferay → Angular micro-frontends, CI/CD, security hardening
+🦀 **Open Source:** [rustkit-ai](https://github.com/rustkit-ai) — 5 Rust crates on crates.io for AI-assisted development
 🌐 **Portfolio:** [djamel-bougouffa.com](https://djamel-bougouffa.com) · 📫 djamel.bougouffa@gmail.com
 
 </div>
@@ -94,17 +95,21 @@
 
 ## 🎯 Featured Projects
 
-### 🦀 MCP CLI — Model Context Protocol in Rust
-- CLI tool and MCP server exposing terminal commands as AI-callable tools
-- Powers agentic workflows in Claude Code, Cursor, and Windsurf
-- Technologies: Rust, MCP, TypeScript
-- [Read the article](https://djamel-bougouffa.com/blog/model-context-protocol-mcp-cli-rust-ide/)
+### 🦀 rustkit-ai — AI-Native Developer Tools in Rust
+Open source organization I founded — MIT licensed, published on [crates.io](https://crates.io), works with Claude Code, Cursor, Windsurf & GitHub Copilot.
+
+| Crate | Description |
+|-------|-------------|
+| **[aimemo](https://github.com/rustkit-ai/aimemo)** | Persistent memory for AI coding agents (`CLAUDE.md`, `.cursor/rules`, etc.) |
+| **[trimcp](https://github.com/rustkit-ai/trimcp)** | MCP proxy that reduces LLM token costs by **60–90%** via compression & caching |
+| **[tersify](https://github.com/rustkit-ai/tersify)** | Strips noise from code before LLM injection — up to **50% token reduction** |
+| **[semtree](https://github.com/rustkit-ai/semtree)** | Semantic code intelligence — tree-sitter + RAG for multi-language codebases |
+| **[semstore](https://github.com/rustkit-ai/semstore)** | Local semantic search for Rust — on-device embeddings, no cloud API required |
+
+→ [github.com/rustkit-ai](https://github.com/rustkit-ai) · [rustkit-ai.github.io](https://rustkit-ai.github.io/)
 
 ### 💼 Consultant Tracking
-- Full-stack web app for consultant time tracking with hexagonal architecture
-- Technologies: Angular 14, Spring Boot 3, Java 17, Docker Swarm, Traefik, GitHub Actions
-- Architecture: Hexagonal (Ports & Adapters) backend + NgRx frontend
-- [GitHub](https://github.com/strawbang/consultant-tracking)
+Full-stack web app for consultant time tracking — Angular 14, Spring Boot 3, Hexagonal Architecture, Docker Swarm · [GitHub](https://github.com/strawbang/consultant-tracking)
 
 <br/>
 
