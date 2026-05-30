@@ -159,9 +159,9 @@ Full details on my [portfolio](https://djamel-bougouffa.com/about/) — highligh
 
 ### Personal Blog
 <!-- PERSONAL-BLOG-LIST:START -->
+- [Deploying a Self-Hosted RAG App on AWS with Terraform: Why I Chose EC2 Over Bedrock](https://djamel-bougouffa.com/blog/deploying-rust-rag-app-aws-terraform-ec2-bedrock/)
 - [How Standardizing a Tech Stack Cut Product Creation Time by 80%](https://djamel-bougouffa.com/blog/stack-standardization-80-percent-faster/)
 - [AI Broke Our Production Code. Here&#39;s the Craftsmanship Rule That Would Have Prevented It](https://djamel-bougouffa.com/blog/software-craftsmanship-ai-era/)
 - [How I Use Claude Code and Jira MCP to Modernize Legacy Codebases](https://djamel-bougouffa.com/blog/claude-code-jira-mcp-legacy-codebase/)
 - [Model Context Protocol &lpar;MCP&rpar;: Exposing a Rust CLI to Your IDE](https://djamel-bougouffa.com/blog/model-context-protocol-mcp-cli-rust-ide/)
-- [Spec-Driven Development: From Specification to Code with AI](https://djamel-bougouffa.com/blog/spec-driven-development/)
 <!-- PERSONAL-BLOG-LIST:END -->
