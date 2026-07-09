@@ -159,9 +159,9 @@ Full details on my [portfolio](https://djamel-bougouffa.com/about/) — highligh
 
 ### Personal Blog
 <!-- PERSONAL-BLOG-LIST:START -->
+- [Hexagonal Architecture Is the Best Gift You Can Give an AI Agent](https://djamel-bougouffa.com/blog/hexagonal-architecture-ai-agents/)
 - [Why I Left the AI IDE for the Terminal, and Built Tooling Around It](https://djamel-bougouffa.com/blog/why-i-left-the-ai-ide-for-the-terminal/)
 - [Deploying a Self-Hosted RAG App on AWS with Terraform: Why I Chose EC2 Over Bedrock](https://djamel-bougouffa.com/blog/deploying-rust-rag-app-aws-terraform-ec2-bedrock/)
 - [How Standardizing a Tech Stack Cut Product Creation Time by 80%](https://djamel-bougouffa.com/blog/stack-standardization-80-percent-faster/)
 - [AI Broke Our Production Code. Here&#39;s the Craftsmanship Rule That Would Have Prevented It](https://djamel-bougouffa.com/blog/software-craftsmanship-ai-era/)
-- [How I Use Claude Code and Jira MCP to Modernize Legacy Codebases](https://djamel-bougouffa.com/blog/claude-code-jira-mcp-legacy-codebase/)
 <!-- PERSONAL-BLOG-LIST:END -->
