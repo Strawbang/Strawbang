@@ -1,0 +1,34 @@
+# Generates metrics.svg and commits it to this repo, so the profile does not
+# depend on a third-party Vercel instance being up at render time.
+#
+# Setup, one time:
+#   1. Create a classic PAT with the `public_repo` scope
+#      (https://github.com/settings/tokens)
+#   2. Add it here as a secret named METRICS_TOKEN
+#      (https://github.com/Strawbang/Strawbang/settings/secrets/actions)
+#   3. Run this workflow once from the Actions tab
+#   4. Swap the "Stats" block in README.md for: ![Metrics](./metrics.svg)
+#   5. Uncomment the schedule below
+name: Metrics
+on:
+  workflow_dispatch:
+  # schedule:
+  #   - cron: '0 6 * * 0'
+permissions:
+  contents: write
+
+jobs:
+  github-metrics:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.METRICS_TOKEN }}
+          user: Strawbang
+          filename: metrics.svg
+          template: classic
+          base: header, activity, repositories
+          config_timezone: Europe/Paris
+          plugin_languages: yes
+          plugin_languages_details: percentage
+          plugin_languages_limit: 8

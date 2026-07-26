@@ -1,128 +1,48 @@
 ![Djamel Bougouffa, full-stack engineer and consultant](./banner.svg)
 
-<div align="center">
-
-### I'm Djamel, full-stack engineer and consultant 👨‍💻
-
 I modernize legacy systems on client missions, and build my own products and open-source AI tooling.
 
-🔨 **Currently:** Ippon Technologies AI Lab, building AI-driven legacy modernization tools in Rust
-🎯 **Mission:** SUEZ IWS, modernizing the Pléco extranet (Liferay → Angular micro-frontends, CI/CD, security hardening)
-🦀 **Open Source:** [rustkit-ai](https://github.com/rustkit-ai), 5 Rust crates on crates.io for AI-assisted development
-🌐 **Portfolio:** [djamel-bougouffa.com](https://djamel-bougouffa.com) · 📫 dbougouffa@gmail.com
+**Currently** at [Ippon Technologies](https://www.ippon.tech) AI Lab, building legacy modernization tools in Rust.
+**On mission** at SUEZ IWS, moving the Pléco extranet from Liferay to Angular micro-frontends.
+**Writing** at [djamel-bougouffa.com](https://djamel-bougouffa.com) · **Reach me** at dbougouffa@gmail.com
 
-</div>
+## rustkit-ai
 
----
+Five Rust crates I maintain to cut the token cost of AI coding agents. MIT, published on crates.io, works with Claude Code, Cursor, Windsurf and GitHub Copilot.
 
-## 🛠️ Tech Stack
+| Crate | | What it does |
+|-------|--|--------------|
+| **[tersify](https://github.com/rustkit-ai/tersify)** | [![crates.io](https://img.shields.io/crates/v/tersify?style=flat-square&color=F85D7F)](https://crates.io/crates/tersify) | Strips noise from code before it reaches the model. Up to 50% fewer tokens. |
+| **[trimcp](https://github.com/rustkit-ai/trimcp)** | [![crates.io](https://img.shields.io/crates/v/trimcp?style=flat-square&color=F85D7F)](https://crates.io/crates/trimcp) | MCP proxy that compresses and caches tool output. 60 to 90% fewer tokens. |
+| **[semtree](https://github.com/rustkit-ai/semtree)** | [![crates.io](https://img.shields.io/crates/v/semtree?style=flat-square&color=F85D7F)](https://crates.io/crates/semtree) | Searches a codebase by meaning instead of by string. tree-sitter plus embeddings. |
+| **[semstore](https://github.com/rustkit-ai/semstore)** | [![crates.io](https://img.shields.io/crates/v/semstore?style=flat-square&color=F85D7F)](https://crates.io/crates/semstore) | Vector store for Rust. Embeds on device, no cloud API. |
+| **[aimemo](https://github.com/rustkit-ai/aimemo)** | [![crates.io](https://img.shields.io/crates/v/aimemo?style=flat-square&color=F85D7F)](https://crates.io/crates/aimemo) | Keeps agent memory in sync across `CLAUDE.md`, `.cursor/rules` and friends. |
 
-**Languages**
+[github.com/rustkit-ai](https://github.com/rustkit-ai) · [rustkit-ai.github.io](https://rustkit-ai.github.io/)
 
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+## Other work
 
-**Frontend**
+**[Consultant Tracking](https://github.com/strawbang/consultant-tracking)** · Time tracking for consulting firms. Angular 14, Spring Boot 3, hexagonal architecture, Docker Swarm.
 
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+Upstream contributions:
 
-**Backend**
+- **[tree-sitter/tree-sitter-rust](https://github.com/tree-sitter/tree-sitter-rust)** · Fixed the parsing of unary operators after the `..` range operator, where `..*a` was read as a binary expression instead of a prefix range.
+- **[DefinitelyTyped](https://github.com/DefinitelyTyped/DefinitelyTyped)** · Added French documentation ([#66193](https://github.com/DefinitelyTyped/DefinitelyTyped/pull/66193))
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
-![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+## Stack
 
-**AI & Tooling**
+![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
 
-![RAG](https://img.shields.io/badge/RAG-FF6F00?style=for-the-badge&logo=ai&logoColor=white)
-![MCP](https://img.shields.io/badge/MCP-7B2FBE?style=for-the-badge&logoColor=white)
-![Claude](https://img.shields.io/badge/Claude_Code-CC785C?style=for-the-badge&logoColor=white)
-![Windsurf](https://img.shields.io/badge/Windsurf-0EA5E9?style=for-the-badge&logoColor=white)
+On the AI side: RAG pipelines, MCP servers, tree-sitter parsing and on-device embeddings.
 
-**DevOps & Cloud**
-
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-
-**Databases**
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![Qdrant](https://img.shields.io/badge/Qdrant-FF3366?style=for-the-badge&logoColor=white)
-
-## 🏆 Trophies
-
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Strawbang&theme=onedark&no-frame=true&row=1&column=7" alt="Strawbang's trophies"/>
-  </a>
-</p>
-
-## 📊 GitHub Statistics
-
-<p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img alt="Strawbang's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=Strawbang&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/>
-  </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img alt="Strawbang's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=Strawbang&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook,Roff" height="192px"/>
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-    <img src="https://streak-stats.demolab.com?user=Strawbang&theme=monokai-metallian&hide_border=true&background=1F222E&stroke=FFFFFF&ring=F85D7F&fire=F85D7F&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/Strawbang?tab=repositories&sort=stargazers">
-    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/Strawbang?color=F8D866&style=for-the-badge&labelColor=1F222E&logo=star"/>
-  </a>
-  <a href="https://github.com/Strawbang?tab=followers">
-    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/Strawbang?color=236ad3&labelColor=1F222E&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/>
-  </a>
-  <a href="https://github.com/Strawbang">
-    <img alt="views" title="GitHub profile views" src="https://komarev.com/ghpvc/?username=Strawbang&style=for-the-badge&color=brightgreen"/>
-  </a>
-</p>
-
-## 🎯 Featured Projects
-
-### 🦀 rustkit-ai: AI-Native Developer Tools in Rust
-Open source organization I founded. MIT licensed, published on [crates.io](https://crates.io), works with Claude Code, Cursor, Windsurf & GitHub Copilot.
-
-| Crate | Description |
-|-------|-------------|
-| **[aimemo](https://github.com/rustkit-ai/aimemo)** | Persistent memory for AI coding agents (`CLAUDE.md`, `.cursor/rules`, etc.) |
-| **[trimcp](https://github.com/rustkit-ai/trimcp)** | MCP proxy that reduces LLM token costs by **60–90%** via compression & caching |
-| **[tersify](https://github.com/rustkit-ai/tersify)** | Strips noise from code before LLM injection, up to **50% token reduction** |
-| **[semtree](https://github.com/rustkit-ai/semtree)** | Semantic code intelligence with tree-sitter + RAG for multi-language codebases |
-| **[semstore](https://github.com/rustkit-ai/semstore)** | Local semantic search for Rust with on-device embeddings, no cloud API required |
-
-→ [github.com/rustkit-ai](https://github.com/rustkit-ai) · [rustkit-ai.github.io](https://rustkit-ai.github.io/)
-
-### 💼 Consultant Tracking
-Full-stack web app for consultant time tracking, built with Angular 14, Spring Boot 3, Hexagonal Architecture and Docker Swarm · [GitHub](https://github.com/strawbang/consultant-tracking)
-
-<br/>
-
-## 🤝 Open Source Contributions
-
-- **[DefinitelyTyped/DefinitelyTyped](https://github.com/DefinitelyTyped/DefinitelyTyped)**: Added French documentation ([#66193](https://github.com/DefinitelyTyped/DefinitelyTyped/pull/66193))
-- **[tree-sitter/tree-sitter-rust](https://github.com/tree-sitter/tree-sitter-rust)**: Fix incorrect parsing of unary operators after the `..` range operator (e.g. `..*a` was parsed as a binary expression instead of a prefix range)
-
-## 💼 Experience & Education
-
-Full details on my [portfolio](https://djamel-bougouffa.com/about/). Highlights:
+## Experience
 
 | Period | Role | Company |
 |--------|------|---------|
@@ -133,33 +53,16 @@ Full details on my [portfolio](https://djamel-bougouffa.com/about/). Highlights:
 | Mar 2022 – Mar 2024 | Fullstack Developer | Wemanity Group (METRO France) |
 | Sep 2020 – Feb 2022 | Fullstack Developer | Ma Formation Médicale |
 
-🎓 Master's degree, Expert Web Architect, Institut F2I Paris (2021) · Bachelor's, Digital Project Manager, Institut F2I (2020)
+A few things I shipped along the way:
 
-## Connect with me
+- Built the warehouse management system used by 93 METRO France sites.
+- Deployed a self-hosted Rust RAG service on AWS with Terraform and GitLab OIDC.
+- Moved MaFormation Médicale from PHP to JavaScript, cutting page load time by 40%.
 
-<div align="center">
-<a href="https://github.com/strawbang" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://dev.to/strawbang" target="_blank">
-<img src=https://img.shields.io/badge/dev.to-%2308090A.svg?&style=for-the-badge&logo=dev.to&logoColor=white alt=devto style="margin-bottom: 5px;" />
-</a>
-<a href="https://linkedin.com/in/djamel-bougouffa" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
-</div>
+Master's degree, Expert Web Architect, Institut F2I Paris (2021). Full details on my [portfolio](https://djamel-bougouffa.com/about/).
 
-## 🏆 Key Achievements
+## Writing
 
-- 🦀 Built a production Rust AI tool (RAG + MCP + Tree-sitter) deployed on AWS with Terraform and GitLab OIDC CI/CD
-- 🔄 Migrating a legacy Liferay B2B extranet to Angular micro-frontends for SUEZ IWS industrial platform
-- 🌟 Led development of warehouse management system impacting 93 METRO France locations
-- 🚀 Led PHP → JavaScript stack transition at MaFormation Médicale (+40% performance)
-- 📝 Technical writer: articles on Claude Code + MCP, RAG on AWS, software craftsmanship at [djamel-bougouffa.com](https://djamel-bougouffa.com/blog/)
-
-## 📝 Latest Blog Posts
-
-### Personal Blog
 <!-- PERSONAL-BLOG-LIST:START -->
 - [AI Writes the Code Now, Which Is Exactly Why You Should Master Architecture](https://djamel-bougouffa.com/blog/why-developers-should-learn-architecture-ai-era/)
 - [Hexagonal Architecture Is the Best Gift You Can Give an AI Agent](https://djamel-bougouffa.com/blog/hexagonal-architecture-ai-agents/)
@@ -167,3 +70,19 @@ Full details on my [portfolio](https://djamel-bougouffa.com/about/). Highlights:
 - [Deploying a Self-Hosted RAG App on AWS with Terraform: Why I Chose EC2 Over Bedrock](https://djamel-bougouffa.com/blog/deploying-rust-rag-app-aws-terraform-ec2-bedrock/)
 - [How Standardizing a Tech Stack Cut Product Creation Time by 80%](https://djamel-bougouffa.com/blog/stack-standardization-80-percent-faster/)
 <!-- PERSONAL-BLOG-LIST:END -->
+
+Also on [dev.to](https://dev.to/strawbang):
+
+<!-- DEVTO-BLOG-LIST:START -->
+<!-- DEVTO-BLOG-LIST:END -->
+
+## Stats
+
+<p align="center">
+  <img alt="Djamel's GitHub stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=Strawbang&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="180px"/>
+  <img alt="Djamel's top languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=Strawbang&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook,Roff" height="180px"/>
+</p>
+
+## Elsewhere
+
+[GitHub](https://github.com/strawbang) · [LinkedIn](https://linkedin.com/in/djamel-bougouffa) · [dev.to](https://dev.to/strawbang) · [djamel-bougouffa.com](https://djamel-bougouffa.com)
