@@ -71,14 +71,6 @@ Master's degree, Expert Web Architect, Institut F2I Paris (2021). Full details o
 - [How Standardizing a Tech Stack Cut Product Creation Time by 80%](https://djamel-bougouffa.com/blog/stack-standardization-80-percent-faster/)
 <!-- PERSONAL-BLOG-LIST:END -->
 
-Also on [dev.to](https://dev.to/strawbang):
-
-<!-- DEVTO-BLOG-LIST:START -->
-- [Hexagonal Architecture Is the Best Gift You Can Give an AI Agent](https://dev.to/strawbang/hexagonal-architecture-is-the-best-gift-you-can-give-an-ai-agent-enb)
-- [How I Use Claude Code and Jira MCP to Modernize Legacy Codebases](https://dev.to/strawbang/how-i-use-claude-code-and-jira-mcp-to-modernize-legacy-codebases-3176)
-- [Building a Blazing-Fast Portfolio with Astro and Deploying with Netlify](https://dev.to/strawbang/building-a-blazing-fast-portfolio-with-astro-and-deploying-with-netlify-4ek0)
-<!-- DEVTO-BLOG-LIST:END -->
-
 ## Stats
 
 <p align="center">

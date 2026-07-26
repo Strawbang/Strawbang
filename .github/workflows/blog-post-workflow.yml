@@ -19,10 +19,3 @@ jobs:
           feed_list: "https://djamel-bougouffa.com/rss.xml"
           comment_tag_name: "PERSONAL-BLOG-LIST"
           commit_message: "Updated with the latest blog posts"
-      - name: Pull in dev.to posts
-        uses: gautamkrishnar/blog-post-workflow@v1
-        with:
-          feed_list: "https://dev.to/feed/strawbang"
-          comment_tag_name: "DEVTO-BLOG-LIST"
-          max_post_count: 3
-          commit_message: "Updated with the latest dev.to posts"
