@@ -1,4 +1,4 @@
-![Header](./github-header-image.png)
+![Djamel Bougouffa, full-stack engineer and consultant](./banner.svg)
 
 <div align="center">
 
