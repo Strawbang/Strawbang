@@ -2,12 +2,14 @@
 
 <div align="center">
 
-### I'm Djamel, Full-Stack Software Engineer 👨‍💻 passionate about modern web technologies & AI 🚀
+### I'm Djamel, full-stack engineer and consultant 👨‍💻
 
-🔨 **Currently:** Ippon Technologies AI Lab — building AI-driven legacy modernization tools in Rust
-🎯 **Mission:** SUEZ IWS — Liferay → Angular micro-frontends, CI/CD, security hardening
-🦀 **Open Source:** [rustkit-ai](https://github.com/rustkit-ai) — 5 Rust crates on crates.io for AI-assisted development
-🌐 **Portfolio:** [djamel-bougouffa.com](https://djamel-bougouffa.com) · 📫 djamel.bougouffa@gmail.com
+I modernize legacy systems on client missions, and build my own products and open-source AI tooling.
+
+🔨 **Currently:** Ippon Technologies AI Lab, building AI-driven legacy modernization tools in Rust
+🎯 **Mission:** SUEZ IWS, modernizing the Pléco extranet (Liferay → Angular micro-frontends, CI/CD, security hardening)
+🦀 **Open Source:** [rustkit-ai](https://github.com/rustkit-ai), 5 Rust crates on crates.io for AI-assisted development
+🌐 **Portfolio:** [djamel-bougouffa.com](https://djamel-bougouffa.com) · 📫 dbougouffa@gmail.com
 
 </div>
 
@@ -95,43 +97,43 @@
 
 ## 🎯 Featured Projects
 
-### 🦀 rustkit-ai — AI-Native Developer Tools in Rust
-Open source organization I founded — MIT licensed, published on [crates.io](https://crates.io), works with Claude Code, Cursor, Windsurf & GitHub Copilot.
+### 🦀 rustkit-ai: AI-Native Developer Tools in Rust
+Open source organization I founded. MIT licensed, published on [crates.io](https://crates.io), works with Claude Code, Cursor, Windsurf & GitHub Copilot.
 
 | Crate | Description |
 |-------|-------------|
 | **[aimemo](https://github.com/rustkit-ai/aimemo)** | Persistent memory for AI coding agents (`CLAUDE.md`, `.cursor/rules`, etc.) |
 | **[trimcp](https://github.com/rustkit-ai/trimcp)** | MCP proxy that reduces LLM token costs by **60–90%** via compression & caching |
-| **[tersify](https://github.com/rustkit-ai/tersify)** | Strips noise from code before LLM injection — up to **50% token reduction** |
-| **[semtree](https://github.com/rustkit-ai/semtree)** | Semantic code intelligence — tree-sitter + RAG for multi-language codebases |
-| **[semstore](https://github.com/rustkit-ai/semstore)** | Local semantic search for Rust — on-device embeddings, no cloud API required |
+| **[tersify](https://github.com/rustkit-ai/tersify)** | Strips noise from code before LLM injection, up to **50% token reduction** |
+| **[semtree](https://github.com/rustkit-ai/semtree)** | Semantic code intelligence with tree-sitter + RAG for multi-language codebases |
+| **[semstore](https://github.com/rustkit-ai/semstore)** | Local semantic search for Rust with on-device embeddings, no cloud API required |
 
 → [github.com/rustkit-ai](https://github.com/rustkit-ai) · [rustkit-ai.github.io](https://rustkit-ai.github.io/)
 
 ### 💼 Consultant Tracking
-Full-stack web app for consultant time tracking — Angular 14, Spring Boot 3, Hexagonal Architecture, Docker Swarm · [GitHub](https://github.com/strawbang/consultant-tracking)
+Full-stack web app for consultant time tracking, built with Angular 14, Spring Boot 3, Hexagonal Architecture and Docker Swarm · [GitHub](https://github.com/strawbang/consultant-tracking)
 
 <br/>
 
 ## 🤝 Open Source Contributions
 
-- **[DefinitelyTyped/DefinitelyTyped](https://github.com/DefinitelyTyped/DefinitelyTyped)** — Added French documentation ([#66193](https://github.com/DefinitelyTyped/DefinitelyTyped/pull/66193))
-- **[tree-sitter/tree-sitter-rust](https://github.com/tree-sitter/tree-sitter-rust)** — Fix incorrect parsing of unary operators after the `..` range operator (e.g. `..*a` was parsed as a binary expression instead of a prefix range)
+- **[DefinitelyTyped/DefinitelyTyped](https://github.com/DefinitelyTyped/DefinitelyTyped)**: Added French documentation ([#66193](https://github.com/DefinitelyTyped/DefinitelyTyped/pull/66193))
+- **[tree-sitter/tree-sitter-rust](https://github.com/tree-sitter/tree-sitter-rust)**: Fix incorrect parsing of unary operators after the `..` range operator (e.g. `..*a` was parsed as a binary expression instead of a prefix range)
 
 ## 💼 Experience & Education
 
-Full details on my [portfolio](https://djamel-bougouffa.com/about/) — highlights:
+Full details on my [portfolio](https://djamel-bougouffa.com/about/). Highlights:
 
 | Period | Role | Company |
 |--------|------|---------|
 | Mar 2026 – Present | Full-Stack Developer | SUEZ IWS (via Ippon) |
-| Feb 2026 – Present | Software Engineer — AI Lab | Ippon Technologies |
-| Nov 2025 – Feb 2026 | Software Engineer — R&D | Ippon Technologies |
-| Jan 2025 – Apr 2025 | Software Engineer | SYSTRAN by ChapsVision |
+| Feb 2026 – Present | Software Engineer, AI Lab | Ippon Technologies |
+| Nov 2025 – Feb 2026 | Software Engineer, R&D | Ippon Technologies |
+| Jan 2025 – Apr 2025 | Full-Stack Software Engineer | SYSTRAN by ChapsVision |
 | Mar 2022 – Mar 2024 | Fullstack Developer | Wemanity Group (METRO France) |
 | Sep 2020 – Feb 2022 | Fullstack Developer | Ma Formation Médicale |
 
-🎓 Master's in Computer Engineering — Institut F2I, Paris (2021)
+🎓 Master's degree, Expert Web Architect, Institut F2I Paris (2021) · Bachelor's, Digital Project Manager, Institut F2I (2020)
 
 ## Connect with me
 
